@@ -6,7 +6,7 @@ import com.oa.crmpro.launchbrowser.BrowserInitialization;
 
 public class LoginPage {
 	
-	
+	//extra
 	BrowserInitialization browserInitialization = new BrowserInitialization();
 	
 	public void chromeLogin() {

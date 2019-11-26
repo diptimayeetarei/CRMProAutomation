@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class ConfigProperty {
 	
-	
+	//extra
 	public Properties readConfigProperties() {
 
 		Properties prop = new Properties();
