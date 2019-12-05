@@ -12,7 +12,7 @@ public class ConfigProperty {
 		Properties prop = new Properties();
 		try {
 			
-			InputStream input = new FileInputStream("F:\\Eclipse_Code\\CRMProAutomation\\src\\config.properties");
+			InputStream input = new FileInputStream("D:\\Twinkle Study\\DiptimayeeWorkSpace\\CRMProAutomation\\src\\config.properties");
 
 			prop.load(input);
 
